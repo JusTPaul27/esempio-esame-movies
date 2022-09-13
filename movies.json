@@ -1,0 +1,102 @@
+[
+    {
+     "name": "Titanic",
+     "genre": ["romantico", "storico"],
+     "yop": 1997,
+     "actors": ["Leonardo Di Caprio", "Kate Winslet"],
+     "img": "https://upload.wikimedia.org/wikipedia/en/1/18/Titanic_%281997_film%29_poster.png",
+     "streaming": true,
+     "wStreaming": ["Amazon prime", "disney+"],
+     "id": "1"
+    },
+    {
+     "name": "Reservoir dogs",
+     "genre": ["Pulp", "drammatico"],
+     "yop": 1992,
+     "actors": ["Harvey Keitel", "Tim Roth", "Michael Madsen", "Chris Penn", "Steve Buscemi"],
+     "img": "https://image.tmdb.org/t/p/w500/lsBnfheKZBO3UKU7lVHIeGZLWuF.jpg",
+     "streaming": false,
+     "wStreaming": [],
+     "id": "2"
+    },
+    {
+     "name": "Rush",
+     "genre": ["sport", "drammatico"],
+     "yop": 2013,
+     "actors": ["Chris Hemsworth", "Daniel Brühl"],
+     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTofF4v0EWsUkFF6E0HjbKfZZG5-Y1o82EG7TmNYeUz01rO6kUz",
+     "streaming": true,
+     "wStreaming": ["rai play", "netflix"],
+     "id": "3"
+    },
+    {
+     "name": "Mission impossible III",
+     "genre": ["azione", "avventura"],
+     "yop": 2006,
+     "actors": ["Tom Cruise", "Philip Seymour Hoffman", "Ving Rhames"],
+     "img": "https://pad.mymovies.it/filmclub/2005/12/065/Locandina.jpg",
+     "streaming": true,
+     "wStreaming": ["netflix"],
+     "id": "4"
+    },
+    {
+     "name": "L'ultimo Samurai",
+     "genre": ["azione", "storico"],
+     "yop": 2003,
+     "actors": ["Tom Cruise", "Ken Watanabe", "Hiroyuki Sanada"],
+     "img": "https://pad.mymovies.it/filmclub/2003/12/018/locandina.jpg",
+     "streaming": true,
+     "wStreaming": ["netflix"],
+     "id": "5"
+    },
+    {
+     "name": "Space Jam",
+     "genre": ["commedia", "famiglie"],
+     "yop": 1996,
+     "actors": ["Michael Jordan", "Bill Murray"],
+     "img": "https://m.media-amazon.com/images/I/518EXSQS3CL._SY445_.jpg",
+     "streaming": false,
+     "wStreaming": [],
+     "id": "6"
+    },
+    {
+     "name": "Il signore degli anelli",
+     "genre": ["fantasy", "avventura"],
+     "yop": 2001,
+     "actors": ["Elijah Wood", "Ian McKellen", "Viggo Mortensen", "Orlando Bloom", "Sean Astin"],
+     "img": "https://static.wikia.nocookie.net/lotr/images/8/87/Ringstrilogyposter.jpg/revision/latest?cb=20210720095933",
+     "streaming": false,
+     "wStreaming": [],
+     "id": "7"
+    },
+    {
+     "name": "Una notte da leoni",
+     "genre": ["commedia"],
+     "yop": 2009,
+     "actors": ["Bradley Cooper", "Zach Galifianakis", "Ed Helms"],
+     "img": "https://pad.mymovies.it/filmclub/2009/03/053/locandina.jpg",
+     "streaming": true,
+     "wStreaming": ["netflix"],
+     "id": "8"
+    },
+    {
+     "name": "Shrek",
+     "genre": ["famiglie", "animazione", "commedia"],
+     "yop": 2001,
+     "actors": ["Mike Myers", "Eddie Murphy", "Cameron Diaz"],
+     "img": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/18dbce6a92f8b83aed0b55eccbf99bf397b556e83914bbed8a69acebaa4cd7d6._RI_V_TTW_.jpg",
+     "streaming": true,
+     "wStreaming": ["Amazon prime", "netflix"],
+     "id": "9"
+    },
+    {
+     "name": "Si alza il vento",
+     "genre": ["animazione", "drammatico"],
+     "yop": 2013,
+     "actors": ["Hideaki Anno", "Miori Takimoto"],
+     "img": "https://pad.mymovies.it/filmclub/2012/12/081/locandina.jpg",
+     "streaming": true,
+     "wStreaming": ["netflix"],
+     "id": "10"
+    }
+   ]

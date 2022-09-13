@@ -1,0 +1,1 @@
+fetch('https://628b2f157886bbbb37b20caa.mockapi.io/movies')
