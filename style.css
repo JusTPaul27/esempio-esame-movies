@@ -1,0 +1,24 @@
+html, body{
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+#container{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.movie-div{
+    margin: 12px;
+    padding: 8px;
+    border: solid purple 0.5px;
+    border-radius: 8px;
+    background-color: aqua;
+
+}
+
+.img-div{
+    height: 100px;
+}
